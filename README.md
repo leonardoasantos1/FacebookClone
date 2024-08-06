@@ -10,3 +10,5 @@ Este projeto é um clone da página inicial do Facebook, criado com o objetivo d
 - Media Queries
 
 ![image](https://github.com/user-attachments/assets/42574208-1206-4f91-83f9-5196fea918f6)
+
+![image](https://github.com/user-attachments/assets/5c9e57f2-fc06-4526-adc9-3b3c77eefa50)
